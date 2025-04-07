@@ -1,0 +1,31 @@
+.footer {  
+    background-color: #222;  
+    color: white;  
+    padding: 20px;  
+    display: flex;  
+    flex-wrap: wrap;  
+    justify-content: space-between;  
+  }  
+  
+  .footer-section {  
+    flex: 1;  
+    margin: 10px;  
+  }  
+  
+  .footer-section h4 {  
+    margin-bottom: 10px;  
+  }  
+  
+  .footer-section ul {  
+    list-style-type: none;  
+    padding: 0;  
+  }  
+  
+  .footer-section li, .footer-section p, .footer-section a {  
+    color: white;  
+    text-decoration: none;  
+  }  
+  
+  .footer-section a:hover {  
+    text-decoration: underline;  
+  }  
